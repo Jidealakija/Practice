@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p.DOB{
+    text-align: center;
+    color: white;
+}
+
+img.center{
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+p.quote{
+    text-align: left;
+}
+
+blockquote{
+    font-size: 3rem;
+    background-color: white;
+    padding: auto;
+}
+
+img{
+    image ali: center;
+}
+
+h2{
+    color: white;
+    font-size: 3rem;
+}
+
+p.bio{
+    font-size: 1.5rem;
+    height: 1.5rem;
+}
+
+hr{
+    margin-top: 4rem;
+}
