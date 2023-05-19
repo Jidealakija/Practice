@@ -29,7 +29,7 @@ blockquote{
 }
 
 img{
-    image ali: center;
+    image-rendering: auto;
 }
 
 h2{
